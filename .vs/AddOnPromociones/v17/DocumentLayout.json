@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\EXXIS_DEV\\AddOnPromociones\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E3D45B5-A569-4AA4-A759-CE57CAE94CE0}|AddOnPromociones.csproj|c:\\exxis_dev\\addonpromociones\\promociones\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E3D45B5-A569-4AA4-A759-CE57CAE94CE0}|AddOnPromociones.csproj|solutionrelative:promociones\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E3D45B5-A569-4AA4-A759-CE57CAE94CE0}|AddOnPromociones.csproj|C:\\EXXIS_DEV\\AddOnPromociones\\ordenventa\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E3D45B5-A569-4AA4-A759-CE57CAE94CE0}|AddOnPromociones.csproj|solutionrelative:ordenventa\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E3D45B5-A569-4AA4-A759-CE57CAE94CE0}|AddOnPromociones.csproj|C:\\EXXIS_DEV\\AddOnPromociones\\app\\revalmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E3D45B5-A569-4AA4-A759-CE57CAE94CE0}|AddOnPromociones.csproj|solutionrelative:app\\revalmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E3D45B5-A569-4AA4-A759-CE57CAE94CE0}|AddOnPromociones.csproj|C:\\EXXIS_DEV\\AddOnPromociones\\promociones\\events.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E3D45B5-A569-4AA4-A759-CE57CAE94CE0}|AddOnPromociones.csproj|solutionrelative:promociones\\events.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E3D45B5-A569-4AA4-A759-CE57CAE94CE0}|AddOnPromociones.csproj|C:\\EXXIS_DEV\\AddOnPromociones\\app\\metadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E3D45B5-A569-4AA4-A759-CE57CAE94CE0}|AddOnPromociones.csproj|solutionrelative:app\\metadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E3D45B5-A569-4AA4-A759-CE57CAE94CE0}|AddOnPromociones.csproj|C:\\EXXIS_DEV\\AddOnPromociones\\ordenventa\\events.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E3D45B5-A569-4AA4-A759-CE57CAE94CE0}|AddOnPromociones.csproj|solutionrelative:ordenventa\\events.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E3D45B5-A569-4AA4-A759-CE57CAE94CE0}|AddOnPromociones.csproj|C:\\EXXIS_DEV\\AddOnPromociones\\app\\globals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E3D45B5-A569-4AA4-A759-CE57CAE94CE0}|AddOnPromociones.csproj|solutionrelative:app\\globals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E3D45B5-A569-4AA4-A759-CE57CAE94CE0}|AddOnPromociones.csproj|C:\\EXXIS_DEV\\AddOnPromociones\\app\\connect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E3D45B5-A569-4AA4-A759-CE57CAE94CE0}|AddOnPromociones.csproj|solutionrelative:app\\connect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\EXXIS_DEV\\AddOnPromociones\\Promociones\\Main.cs",
+              "RelativeDocumentMoniker": "Promociones\\Main.cs",
+              "ToolTip": "C:\\EXXIS_DEV\\AddOnPromociones\\Promociones\\Main.cs",
+              "RelativeToolTip": "Promociones\\Main.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAAwEkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T03:31:40.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RevalMain.cs",
+              "DocumentMoniker": "C:\\EXXIS_DEV\\AddOnPromociones\\App\\RevalMain.cs",
+              "RelativeDocumentMoniker": "App\\RevalMain.cs",
+              "ToolTip": "C:\\EXXIS_DEV\\AddOnPromociones\\App\\RevalMain.cs",
+              "RelativeToolTip": "App\\RevalMain.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAASwC8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T03:32:26.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Metadata.cs",
+              "DocumentMoniker": "C:\\EXXIS_DEV\\AddOnPromociones\\App\\Metadata.cs",
+              "RelativeDocumentMoniker": "App\\Metadata.cs",
+              "ToolTip": "C:\\EXXIS_DEV\\AddOnPromociones\\App\\Metadata.cs",
+              "RelativeToolTip": "App\\Metadata.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T01:24:00.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\EXXIS_DEV\\AddOnPromociones\\OrdenVenta\\Main.cs",
+              "RelativeDocumentMoniker": "OrdenVenta\\Main.cs",
+              "ToolTip": "C:\\EXXIS_DEV\\AddOnPromociones\\OrdenVenta\\Main.cs",
+              "RelativeToolTip": "OrdenVenta\\Main.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAiwBQAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T19:43:04.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Globals.cs",
+              "DocumentMoniker": "C:\\EXXIS_DEV\\AddOnPromociones\\App\\Globals.cs",
+              "RelativeDocumentMoniker": "App\\Globals.cs",
+              "ToolTip": "C:\\EXXIS_DEV\\AddOnPromociones\\App\\Globals.cs",
+              "RelativeToolTip": "App\\Globals.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T00:13:13.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Events.cs",
+              "DocumentMoniker": "C:\\EXXIS_DEV\\AddOnPromociones\\OrdenVenta\\Events.cs",
+              "RelativeDocumentMoniker": "OrdenVenta\\Events.cs",
+              "ToolTip": "C:\\EXXIS_DEV\\AddOnPromociones\\OrdenVenta\\Events.cs",
+              "RelativeToolTip": "OrdenVenta\\Events.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T19:05:49.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Connect.cs",
+              "DocumentMoniker": "C:\\EXXIS_DEV\\AddOnPromociones\\App\\Connect.cs",
+              "RelativeDocumentMoniker": "App\\Connect.cs",
+              "ToolTip": "C:\\EXXIS_DEV\\AddOnPromociones\\App\\Connect.cs",
+              "RelativeToolTip": "App\\Connect.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAswDAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T04:30:03.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Events.cs",
+              "DocumentMoniker": "C:\\EXXIS_DEV\\AddOnPromociones\\Promociones\\Events.cs",
+              "RelativeDocumentMoniker": "Promociones\\Events.cs",
+              "ToolTip": "C:\\EXXIS_DEV\\AddOnPromociones\\Promociones\\Events.cs",
+              "RelativeToolTip": "Promociones\\Events.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwBUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T03:31:32.431Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
